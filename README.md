@@ -1,12 +1,58 @@
-# 💫 About Me:
-### 👋 Hi there! I'm Sifat<br><br>🔭 **I’m currently working on**  <br>A local service app called **Sarisabari Tottho Seba** — it provides essential information like hospital, police, and fire services for my upazila. I'm also building e-commerce platforms such as **CycleZen** and **Sifat E-Commerce** for my portfolio.<br><br>🤝 **I’m looking to collaborate on**  <br>Frontend projects, community service-based apps, or e-commerce platforms. Open to working with others on impactful ideas!<br><br>🤲 **I’m looking for help with**  <br>Advanced **Flutter** techniques, **backend integration**, and **data-driven features** in full-stack apps. Also curious about **data analytics** and **AI applications**.<br><br>🌱 **I’m currently learning**  <br>Flutter, React, REST API integration, and applying AI in waste management for my thesis titled _"AI & Robotics-Based Waste Sorting for High-Purity Recycling."_<br><br>💬 **Ask me about**  <br>University-level project showcasing, community tech apps, and front-end development with real-life datasets.<br><br>⚡ **Fun fact**  <br>🏆 I was the **champion** in my course’s project showcase!  <br><br><br>
+# 💫 About Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sifat-oss&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sifat-oss&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-oss&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 👋 Hi, I'm Sifat  
+A passionate **Software Engineering student** and **frontend-focused developer** building impactful digital solutions. I love creating apps that solve local community problems and experimenting with AI-driven ideas.
 
 ---
+
+### 🔭 Currently Working On  
+- **Sarisabari Tottho Seba** — A local service app providing hospital, police, fire service, and emergency information for my upazila.  
+- **CycleZen** — A modern bicycle e-commerce platform.  
+- **Sifat E-Commerce** — A dynamic e-commerce project built for my portfolio.
+
+---
+
+### 🤝 Open to Collaborating On  
+- Frontend development (React, Flutter)  
+- Community service-based mobile apps  
+- E-commerce or data-driven projects
+
+---
+
+### 🤲 Looking for Help With  
+- Advanced **Flutter development**  
+- **Backend integration** and REST API optimization  
+- Implementing **AI and data analytics** in real-world apps
+
+---
+
+### 🌱 Currently Learning  
+- Flutter & React  
+- REST APIs and backend workflow  
+- AI applications in waste management (Thesis: **AI & Robotics-Based Waste Sorting for High-Purity Recycling**)
+
+---
+
+### 💬 Ask Me About  
+- University-level project showcasing  
+- Community-focused tech solutions  
+- Frontend development using real datasets
+
+---
+
+### ⚡ Fun Fact  
+🏆 I was the **champion** in my course’s project showcase!
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sifat-oss&theme=github_dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sifat-oss&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-oss&theme=github_dark&hide_border=false&layout=compact)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=sifat-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile optimized & rewritten for clarity and professionalism -->
